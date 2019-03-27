@@ -1,0 +1,2 @@
+# Skip-Hack
+still studying
